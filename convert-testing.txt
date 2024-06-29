@@ -1,0 +1,15 @@
+
+
+Convertire cu cache.
+Cache size 10000
+
+Convertirea mat.in în mat.in.x a durat: 334.3181ms
+Convertirea mat.in.x în mat.in a durat: 283.9117ms
+Convertire cu cache.
+Cache size 1000
+Convertirea mat.in în mat.in.x a durat: 1.7229481s
+Convertirea mat.in.x în mat.in a durat: 1.49855s
+
+Convertire fara cache
+Convertirea mat.in în mat.in.x a durat: 1.0360087s
+Convertirea mat.in.x în mat.in a durat: 1.2417308s
